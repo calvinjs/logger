@@ -1,0 +1,13 @@
+{
+  "name": "@dylanjs/logger",
+  "version": "0.1.0",
+  "description": "Middleware for Dylan which provides basic request console logging.",
+  "license": "MIT",
+  "keywords": [
+    "middleware",
+    "dylan"
+  ],
+  "repository": "dylanjs/logger",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "main": "./index"
+}
