@@ -4,12 +4,12 @@ Middleware for Dylan which provides basic request console logging.
 
 ## Install
 
-`npm install @dylanjs/logger`
+`npm install @dylan/logger`
 
 ## Usage
 
 ``` js
-const logger = require('@dylanjs/logger');
+const logger = require('@dylan/logger');
 app.use(logger());
 ```
 
